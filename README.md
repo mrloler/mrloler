@@ -1,4 +1,4 @@
-Website for school:
+Website:
 https://mrloler.github.io/
 
 Download game "Dont fry me":
